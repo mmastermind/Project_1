@@ -19,7 +19,8 @@ Last Analysis code: Project1-conclusion-Copy1.ipynb
 Presentation: PROJECT_1-Presentation-Final.pptx
 
 PROCEDURE:
-1. Start opening "Clean_Table.ipynb" which is the basic data processing obtained from Genworth regarding portfolio in jan and feb
-2. "INEGI_API_National-Copy1-checkpoint.ipynb" shows code for API data gathering both for second and third round. Actual ouput file is used in part of the code showed in 3 and 4
-3. Code continues on file "Final-Code_Project_1-18July.checkpint.ipynb" for data processing and analysis of this first portfolio and second CNBV. Regarding periodization it shows the third round instead of the second for review simplicity purposes (2nd round of data wasn't copied in this last repository to avoid excess in-process files)
-4. 
+1. Start opening "Clean_Table.ipynb" which is the basic data processing obtained from Genworth regarding portfolio in jan and feb; produces output file "tabla_datos.xlsx" used in 2)
+2. "INEGI_API_National-Copy1-checkpoint.ipynb" shows code for API data gathering both for second and third round. Actual ouput file is used in part of the code showed in 3 and 4. Produces output file of rate_nal_desempleo used later on in 3)
+3. Code continues on file "Final-Code_Project_1-18July.checkpoint.ipynb" for data processing and analysis of this first portfolio and second CNBV. Regarding periodization it shows the third round instead of the second for review simplicity purposes (2nd round of data wasn't copied in this last repository to avoid excess in-process files). Correlation and ttest performed.
+4. PPT summarizes all, conlussions and takeaways
+Thanks!
